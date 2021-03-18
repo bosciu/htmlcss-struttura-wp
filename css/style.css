@@ -11,7 +11,6 @@ header {
 }
 
 main {
-    height: 350px;
     background-color: #ABCFE7
 }
 
@@ -55,10 +54,6 @@ body {
 main>aside,
 main>section {
     float: left;
-}
-
-main {
-    border-bottom: 10px solid #0187FC;
 }
 
 #left,
